@@ -33,7 +33,7 @@ https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
 Clone the Project
 
 ```bash
-  git clone https://github.com/rutwik2172000 Module-3-Frontend-Development-Capstone-Project
+  git clone https://github.com/rutwik2172000/Module-3-Frontend-Development-Capstone-Project.git
 ```
 
 Go to the Project Directory
